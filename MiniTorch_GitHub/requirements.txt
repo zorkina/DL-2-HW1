@@ -1,4 +1,0 @@
-numpy
-pytest
-hypothesis==6.135.20
-matplotlib
